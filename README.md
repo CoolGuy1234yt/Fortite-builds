@@ -1,7 +1,7 @@
 # Fortnite-Builds
 The largest Fortnite Builds Archive maintained by CoolGuy1234yt. 
 
-Credits: Everyone at [notsamiccs's Fortnite Builds](https://github.com/notsamicc/Fortnite-Builds), [Crunnie.](https://github.com/Crunnie , a[nd simplyblk's Fortnite Builds.](https://github.com/simplyblk/Fortnitebuilds))
+Credits: Everyone at [notsamiccs's Fortnite Builds](https://github.com/notsamicc/Fortnite-Builds), [Crunnie.](https://github.com/Crunnie , [and simplyblk's Fortnite Builds.](https://github.com/simplyblk/Fortnitebuilds))
 
 # Downloads
 
